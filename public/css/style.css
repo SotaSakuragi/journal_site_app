@@ -10,3 +10,7 @@ li {
 li:last-child {
     margin-bottom: 0;
 }
+
+.button-group {
+    display: flex;
+}
