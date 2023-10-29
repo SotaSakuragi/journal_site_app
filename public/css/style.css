@@ -1,0 +1,16 @@
+@charset "utf-8";
+
+ul {
+    list-style: none;
+    padding-left: 0;
+}
+li {
+    margin-bottom: 10px;
+}
+li:last-child {
+    margin-bottom: 0;
+}
+
+.button-group {
+    display: flex;
+}
